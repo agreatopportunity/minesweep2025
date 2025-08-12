@@ -162,5 +162,3 @@ MIT License — feel free to use, modify, and share.
 ---
 
 **Have fun sweeping mines!**
-
-```
