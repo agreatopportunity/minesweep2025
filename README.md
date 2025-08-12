@@ -1,4 +1,3 @@
-```markdown
 # CyberSweeper — Multiplayer-Ready Minesweeper with Flask API
 
 **CyberSweeper** is a futuristic, themed Minesweeper game with:
@@ -6,8 +5,6 @@
 - A responsive HTML/JS front-end with WebAudio sound effects.
 - API validation to reduce cheating.
 - Easy theming for forks & custom branding.
-
-![screenshot](docs/screenshot.png)
 
 ---
 
@@ -23,7 +20,6 @@
 ---
 
 ## 📂 Project Structure
-```
 
 .
 ├── backend/                 # Flask API
@@ -41,9 +37,7 @@
 │   └── screenshot.png
 └── README.md
 
-````
 
----
 
 ## 🛠️ Setup & Installation
 
