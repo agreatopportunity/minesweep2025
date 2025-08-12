@@ -120,15 +120,6 @@ The Flask backend exposes:
 * `POST /api/minesweep/validate_game` — Verify game authenticity.
 * `GET /api/health` — Health check.
 
----
-
-## 🖼️ Screenshots
-
-**Game Board**
-![game](docs/game.png)
-
-**Leaderboard**
-![leaderboard](docs/leaderboard.png)
 
 ---
 
@@ -172,9 +163,4 @@ MIT License — feel free to use, modify, and share.
 
 **Have fun sweeping mines!**
 
-```
-
----
-
-If you want, I can also add a **quick-start one-file version** of the README so people can play offline without a backend, but still have the ability to connect when they set up Flask. That might make forks easier for casual players. Would you like me to do that next?
 ```
