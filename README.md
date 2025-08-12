@@ -21,7 +21,7 @@
 
 ## 📂 Project Structure
 
-.
+```bash
 ├── backend/                 # Flask API
 │   ├── app.py               # Main server entry
 │   ├── minesweep\_api.py     # Minesweeper endpoints
@@ -36,7 +36,7 @@
 ├── docs/
 │   └── screenshot.png
 └── README.md
-
+````
 
 
 ## 🛠️ Setup & Installation
